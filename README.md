@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `http-server ./dist/train-booking -p 8081` for a dev server. Navigate to `http://localhost:8081/main.js`. The app will automatically reload if you change any of the source files.
+Run `http-server ./dist/train-booking -p 8082` for a dev server. Navigate to `http://localhost:8082/main.js`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
